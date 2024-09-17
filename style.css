@@ -1,0 +1,15 @@
+body {
+      background-color: #1D2134;
+}
+
+.texto-laranja {
+      color: #FF5B28;
+}
+
+.bg-laranja{
+      background-color: #FF5B28;
+}
+
+.bg-laranja:hover{
+      background-color: #FF5B28;
+}
